@@ -1,3 +1,5 @@
+# **CURRENTLY INACCURATE DUE TO TECHNICAL ISSUES. RESCANNING WILL TAKE 2-3 MORE DAYS DUE TO RATE LIMITS**
+
 # FreeDNS Filters
 
 A reference of **FreeDNS domains** and their observed accessibility across various web filtering, content filtering, surveillance, DNS filtering, firewall, and network security platforms.
